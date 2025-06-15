@@ -1,0 +1,48 @@
+
+
+ESP32 Pin        Connects To                       
+----------------------------------------------------  
+D36               `OUT` pin of MAX9814              
+D25               `L IN`   
+D26               `R IN` of PAM8403                
+D18               `CLK` on TFT                     
+D23               `MOSI` on TFT                    
+D5                `CS` on TFT                       
+D4                 `RST` on TFT                      
+D2                `RS` on TFT                      
+3.3V               `VCC` on MAX9814 + TFT            
+5V                 `VCC` of PAM8403                  
+GND                 GNDs (TFT, AMP, MIC)          
+
+MAX9814 Pin  
+-------------------------------------------------------------  
+OUT      `VP`                              |
+VCC      `3.3V`                                             
+GND      `GND`                                               
+GAIN     unconnected  
+AR       unconnected
+  
+PAM8403 Pin 
+-------------------------------------------------------------  
+L IN	 GPIO25  
+VCC	 5V pin
+GND	 GND
+L+ / L-	 Speaker  
+R+ / R-	 Speaker  
+
+TFT Pin 
+-------------------------------------------------------------  
+CS	        GPIO5  
+RST	        GPIO4 
+RS  	        GPIO2  
+CLK (SCK)	GPIO18  
+D1 (MOSI)	GPIO23 
+VCC	        3.3V  
+GND	        GND
+
+Camera Pin 
+-------------------------------------------------------------  
+U0R (GPIO3)	TX
+U0T (GPIO1)	RX
+GND	GND
+5V	5V
