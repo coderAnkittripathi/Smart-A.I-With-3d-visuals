@@ -13,3 +13,6 @@ I am making a project which talk with us like human it gives 3d visuals and inte
 -I have made the code(see code file)
 -I have made 3d box(see 3dbox.stl)
 -I have used camera for interact with us and give details of images(tried on vs-code)
+
+**Why I make his project:**
+-I made this project because I love to make project with grow my learnings and also for highway and undrcity
