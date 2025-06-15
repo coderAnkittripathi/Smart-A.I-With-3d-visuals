@@ -17,10 +17,7 @@ Put Esp32, display,microphone ,speaker,camera and SD card reader to it too.
 # June 9th: Edited the schematic a bit
 
 Take a lot of time beacuse first learn and then make.
-![image](https://github.com/user-attachments/assets/cd13bfbf-7cc8-4739-8f66-eedcd2a3b625)
-
-![image](https://github.com/user-attachments/assets/24d499ca-47c9-4a3c-9f9a-ebc3c1d17adb)
-
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/wiring-updated.png)
 PCB looks like this now
 
 **Total time spent: 2hr**
@@ -30,9 +27,7 @@ PCB looks like this now
 I have to make a 3 hologram using a transparent sheet then use a hologram's video and it's look like:
 
 
-![image](https://github.com/user-attachments/assets/0c7aa5be-d46d-44a0-9bc9-d6c738963d87)
-
-![image](https://github.com/user-attachments/assets/e54d9762-37b6-44fa-a259-5c51953ae877)
+![video](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/make-hologram.mp4)
 
 
 
@@ -44,10 +39,7 @@ Thought I need make a 3d box for cover my project and add a system to watch 3d v
 
 Gonna start working on it.
 
-![image](https://github.com/user-attachments/assets/ec01024b-a128-4b2e-9bcb-7378826a94ab)
-
-![image](https://github.com/user-attachments/assets/7615391b-5108-41eb-8551-717a2cbab5ba)
-
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/box.png)
 
 **Total time spent: 5hr**
 
