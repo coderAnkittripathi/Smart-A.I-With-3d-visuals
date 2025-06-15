@@ -10,7 +10,8 @@ I start thinking what project I have make
 I research on it use google,ai
 Put Esp32, display,microphone ,speaker,camera and SD card reader to it too.
 
-https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/wiring.png
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/wiring.png)
+
 **Total time spent: 4hr**
 
 # June 9th: Edited the schematic a bit
