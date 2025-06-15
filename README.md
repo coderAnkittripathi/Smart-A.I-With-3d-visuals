@@ -2,4 +2,4 @@
 I am making a project which talk with us like human it gives 3d visuals and interact with us using camera and also give detail about things using pictures it have great data storagel.
 
 This is bom file:
-![file](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/BOM.csv)
+https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/BOM.csv
