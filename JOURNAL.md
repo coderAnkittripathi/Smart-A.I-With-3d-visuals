@@ -28,7 +28,7 @@ I have to make a 3 hologram using a transparent sheet then use a hologram's vide
 
 
 ![video](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/make-hologram.mp4)
-
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/hologram.png)
 
 
 **Total time spent: 4hr**
@@ -47,11 +47,7 @@ Gonna start working on it.
 
 I want to modify it more so i add the camera which read our expressions and gives best response.
 
-![image](https://github.com/user-attachments/assets/1a5af187-fc32-41d4-8b3c-3d2679889c6c)
-
-![image](https://github.com/user-attachments/assets/0d80c366-f133-4d58-9748-ae4329584c7a)
-
-![image](https://github.com/user-attachments/assets/150b6c2c-f3c7-46f6-a84d-d3699be2efe2)
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/schematic.png)
 
 **Total time spent: 1hr**
 
@@ -59,11 +55,7 @@ I want to modify it more so i add the camera which read our expressions and give
 
 I  modified the pcb so it will now gives best response.
 
-![image](https://github.com/user-attachments/assets/1a5af187-fc32-41d4-8b3c-3d2679889c6c)
-
-![image](https://github.com/user-attachments/assets/0d80c366-f133-4d58-9748-ae4329584c7a)
-
-![image](https://github.com/user-attachments/assets/150b6c2c-f3c7-46f6-a84d-d3699be2efe2)
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/pcb.png)
 
 **Total time spent: 1hr**
 
