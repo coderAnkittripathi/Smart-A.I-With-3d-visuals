@@ -5,17 +5,4 @@ I am making a project which talk with us like human it gives 3d visuals and inte
 
 -I am making this project for higway-undercity
 
-
-
-Component,Quantity
-ESP32 Dev Board,1
-MAX9814 Microphone Module,1
-Speaker (with PAM8403 Amplifier),1
-4.0 inch TFT Display (SPI),1
-OV2640 Camera Module (ESP32-CAM compatible),1
-Transparent Plastic Sheet (for hologram),1
-Breadboard,1
-Jumper Wires (Male-to-Male),20
-Power Supply (5V USB or Battery),1
-Enclosure Box / 3D Printed Case,1
-Micro SD Card (for ESP32-CAM image storage),1
+-see the BOM.csv :https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/BOM.csv
