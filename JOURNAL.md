@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d9d5e95e-a1bb-4085-8f41-fa553969a02b)---
+---
 title: "Smart-A.I-With-3d-visuals-Intractive-camera"
 author: "Ankit Tripathi"
 description: "I am making a project which talk with us like human it gives 3d visuals and interact with us using camera and also give detail about things using pictures it have great data storage."
