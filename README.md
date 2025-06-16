@@ -11,6 +11,8 @@ This project was made for Hack Club's Highway.
 
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/hologram.png)
 
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/box.png)
+
 https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journal/make-hologram.mp4
 
 https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/journa
