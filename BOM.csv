@@ -1,0 +1,29 @@
+---
+| Product Name                                        | Retailer     | Price (\$) |
+| --------------------------------------------------- | ------------ | ---------- |
+| ESP32 DevKitC (ESP32-WROOM-32)                      | Amazon       | 5.99       |
+| DFPlayer Mini MP3 Module                            | Amazon       | 4.50       |
+| Speaker 8Ω 1W                                       | Amazon       | 3.49       |
+| MAX9814 Microphone Module                           | Amazon       | 4.25       |
+| 1.8" TFT Display (ST7735)                           | Amazon       | 6.99       |
+| ESP32-CAM Module (with OV2640 Camera)               | Amazon       | 7.49       |
+| MicroSD Card Module (SPI)                           | Amazon       | 2.49       |
+| AMS1117-3.3V Voltage Regulator Module               | Amazon       | 1.89       |
+| TP4056 Battery Charging Module                      | Amazon       | 1.50       |
+| 18650 Battery Holder                                | Amazon       | 1.25       |
+| 18650 Li-ion Battery (Rechargeable)                 | Amazon       | 3.49       |
+| Push Buttons (6mm Tactile Switch, pack of 5)        | Amazon       | 1.20       |
+| Buzzer (Active, 3.3V)                               | Amazon       | 1.00       |
+| White LEDs (Pack of 10)                             | Amazon       | 1.00       |
+| Jumper Wires (Male–Female & Female–Female)          | Amazon       | 3.99       |
+| Header Pins (Male & Female)                         | Amazon       | 1.20       |
+| USB to UART Converter (FTDI/CH340)                  | Amazon       | 4.00       |
+| Hologram Pyramid Material (Transparent Sheet)       | Amazon       | 1.00       |
+| **3D Printing Filament or Service (for enclosure)** | Amazon/Local | 6.00       |
+| Heat Shrink Tubing Kit (optional)                   | Amazon       | 1.50       |
+| **Subtotal (Merchandise)**                          | **Amazon**   | **69.22**  |
+| Shipping (Estimated)                                | Amazon       | 4.00       |
+| **Total (Amazon)**                                  | **Amazon**   | **73.22**  |
+| Custom PCB (2-layer, 10x10cm)                       | JLCPCB       | 2.00       |
+| PCB Shipping (JLCPCB)                               | JLCPCB       | 8.32       |
+| **SUB TOTAL**                                       |              | **83.54**  |
