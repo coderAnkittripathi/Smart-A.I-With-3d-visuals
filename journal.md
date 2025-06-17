@@ -19,6 +19,7 @@ Take a lot of time beacuse make my idea more advanced  and then make.
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/pcb/schematic2.png)
 
 PCB looks like this now
+
 **Total time spent: 2hr**
 
 
