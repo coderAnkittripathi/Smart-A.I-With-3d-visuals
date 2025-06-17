@@ -13,6 +13,7 @@ I want to make a project which talk with us like human using **A.i** **esp32** t
 
 # Hologram
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/hologram/hologram.png)
+
 video-https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/hologram/make-hologram.mp4
 
 
@@ -21,23 +22,32 @@ https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/tree/main/code
 
 # BOM 
 ---
-Part Name,Quantity,Description,LCSC Part Number (if available),Notes
-ESP32-WROOM-32 DevKitC,1,Main microcontroller board,C82653,WiFi/Bluetooth MCU
-DFPlayer Mini MP3 Module,1,Audio playback module,C13477,Plays TTS MP3 files
-Speaker 8Ω 1W,1,Mini speaker compatible with DFPlayer,C38922,For voice output
-MAX9814 Microphone Module,1,Voice input with AGC,C131738,Microphone with automatic gain control
-TFT Display 1.8" ST7735,1,Display for visual output,C462937,SPI 128x160 resolution
-ESP32-CAM Module,1,Facial recognition and image reading,C471010,With OV2640 camera
-MicroSD Card Module (SPI),1,For storing audio/images,C13530,Connects via SPI
-AMS1117-3.3 Voltage Regulator,1,3.3V power regulation,C6186,Used with 5V input
-TP4056 Charging Module,1,Lithium battery charging,C39501,For battery management
-18650 Battery Holder,1,Holds Li-ion battery,C50358,Standard 1-cell holder
-Tactile Push Button 6mm,2,Buttons for manual control,C31856,Optional
-Active Buzzer 3.3V,1,Buzzer for alerts or feedback,C11140,Optional
-IR or White LED,2,For facial recognition lighting,C34492,Lighting around camera
-PCB Mount Pin Header 2.54mm,1 set,For connecting modules,C12453 (male),C12452 (female)
-Jumper Wires,10,M-F and F-F wires,Generic,For prototyping
-3D Printed Case,1,Enclosure with hologram mount,N/A,Design in CAD/Fusion
-Hologram Pyramid Sheet,1,Acrylic or clear sheet,N/A,Reflects display to form 3D illusion
-Heat Shrink Tubing,Optional,Insulation for solder joints,N/A,Optional
----
+| Product Name                                        | Retailer     | Price (\$) |
+| --------------------------------------------------- | ------------ | ---------- |
+| ESP32 DevKitC (ESP32-WROOM-32)                      | Amazon       | 5.99       |
+| DFPlayer Mini MP3 Module                            | Amazon       | 4.50       |
+| Speaker 8Ω 1W                                       | Amazon       | 3.49       |
+| MAX9814 Microphone Module                           | Amazon       | 4.25       |
+| 1.8" TFT Display (ST7735)                           | Amazon       | 6.99       |
+| ESP32-CAM Module (with OV2640 Camera)               | Amazon       | 7.49       |
+| MicroSD Card Module (SPI)                           | Amazon       | 2.49       |
+| AMS1117-3.3V Voltage Regulator Module               | Amazon       | 1.89       |
+| TP4056 Battery Charging Module                      | Amazon       | 1.50       |
+| 18650 Battery Holder                                | Amazon       | 1.25       |
+| 18650 Li-ion Battery (Rechargeable)                 | Amazon       | 3.49       |
+| Push Buttons (6mm Tactile Switch, pack of 5)        | Amazon       | 1.20       |
+| Buzzer (Active, 3.3V)                               | Amazon       | 1.00       |
+| White LEDs (Pack of 10)                             | Amazon       | 1.00       |
+| Jumper Wires (Male–Female & Female–Female)          | Amazon       | 3.99       |
+| Header Pins (Male & Female)                         | Amazon       | 1.20       |
+| USB to UART Converter (FTDI/CH340)                  | Amazon       | 4.00       |
+| Hologram Pyramid Material (Transparent Sheet)       | Amazon       | 1.00       |
+| **3D Printing Filament or Service (for enclosure)** | Amazon/Local | 6.00       |
+| Heat Shrink Tubing Kit (optional)                   | Amazon       | 1.50       |
+| **Subtotal (Merchandise)**                          | **Amazon**   | **69.22**  |
+| Shipping (Estimated)                                | Amazon       | 4.00       |
+| **Total (Amazon)**                                  | **Amazon**   | **73.22**  |
+| Custom PCB (2-layer, 10x10cm)                       | JLCPCB       | 2.00       |
+| PCB Shipping (JLCPCB)                               | JLCPCB       | 8.32       |
+| **SUB TOTAL**                                       |              | **83.54**  |
+
