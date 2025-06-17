@@ -6,7 +6,7 @@ I am making a project which talk with us like human it gives 3d visuals and inte
 I want to make a project which talk with us like human using **A.i** **esp32** tak input from **Microphone**, also give 3d visuals using **screen** **hologram** ,  recognise our face and give responses using **Camera** **esp32**, and also if we want detail of image it will give use **Microsdcard** for storage it will get power by battery.
 
 # Schematic,PCB and CAD
-![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/schematic.png)
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/pcb/schematic.png)
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/pcb/pcb.png)
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box2.png)
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box3.png)
