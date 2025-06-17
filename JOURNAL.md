@@ -33,6 +33,7 @@ and convert schematic into pcb and do little edit.
 
 I have to make a 3 hologram using a transparent sheet then use a hologram's video and it's look like:
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/hologram/hologram.png)
+
 ![video](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/hologram/make-hologram.mp4)
 
 
@@ -45,7 +46,7 @@ Thought I need make a 3d box for cover my project and add a system to watch 3d v
 Gonna start working on it.
 
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box2.png)
-![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box1.png)
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box.png)
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box3.png)
 
 **Total time spent: 3hr**
@@ -55,6 +56,7 @@ Gonna start working on it.
 # June 13th: coding
 
 For this project need good coding for **esp32** and **camera** so make code for both
+
 https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/tree/main/code
 
 **Total time spent: 3hr**
