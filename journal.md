@@ -16,6 +16,7 @@ And sart designing pcb:
 # June 9th: Edited the schematic a bit
 
 Take a lot of time beacuse make my idea more advanced  and then make.
+
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/pcb/schematic2.png)
 
 PCB looks like this now
@@ -26,10 +27,14 @@ PCB looks like this now
 # June 10th: complete schematic pcb 
 
 I edit full schematic coplete schematic look likes this:
+
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/pcb/schematic.png)
+
 and convert schematic into pcb and do little edit.
+
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/pcb/pcb.png)
 
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/pcb/3dpcb.png)
 
 **Total time spent: 3hr**
 
@@ -52,6 +57,9 @@ Gonna start working on it.
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box2.png)
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box.png)
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box3.png)
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box4.png)
+![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box5.png)
+
 
 **Total time spent: 3hr**
 
