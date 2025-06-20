@@ -7,7 +7,6 @@ I want to make a project which talk with us like human using **A.i** **esp32** t
 
 # Schematic,PCB and CAD
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/pcb/schematic.png)
-![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/pcb/pcb.png)
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box2.png)
 ![image](https://github.com/coderAnkittripathi/Smart-A.I-With-3d-visuals/blob/main/cad/box3.png)
 
